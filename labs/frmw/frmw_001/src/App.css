@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 10vw;
+  padding: 50px;
+}
+
+.App > input {
+  margin-top: 20px;
+}
