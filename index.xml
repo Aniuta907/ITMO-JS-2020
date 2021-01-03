@@ -4,8 +4,8 @@
 <link>https://portfolio-kuznetsova-anna.herokuapp.com/</link>
 <turbo:content>
 <![CDATA[
-
-	<header>
+<header> <h1>Веб-портфолио</h1> </header>
+	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Labs</title>
@@ -31,10 +31,9 @@
 			}
 
 		</style>
-	</header>
+	</head>
 	<body>
 		<main style="text-align: center;">
-			<h1>Веб-портфолио</h1>
 			<h2>Кузнецова Анна Олеговна P41072</h2>
 			<h2><a href="https://github.com/Aniuta907/ITMO-JS-2020">Ссылка</a> на GitHub репозиторий </h2>
             <h2><a href="labs/func/func.html">Functions</a><br/></h2>
